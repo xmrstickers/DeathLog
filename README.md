@@ -1,4 +1,4 @@
-# Deathlog
+# Deathlog - BACKUP FROM CURSEFORGE 9/17/2023
 
 A WoW Era Hardcore addon which provides a ui for exploring the deathlog and death statistics. __NOTE__ I am currently looking for more deathlog data! Please consider reaching out (discord lakai.#2409) to share your deathlog data.  Current 96k entries, goal 500k.
 
